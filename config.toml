@@ -1,18 +1,49 @@
-theme="material-design"
 baseurl = "http://pamyot.github.io"
-languageCode = "en-us"
-title = "Blog techno"
-MetaDataFormat = "toml"
-paginate = 9 # To specify a multiple of 3
-disqusShortname = "pamyot" # optional
-copyright = "© 2016 Pascal Amyot"
+title = "Pour le plaisir du code"
+author = "Pascal Amyot"
+# Shown in the side menu
+copyright = "&copy; 2016 Pascal Amyot. All rights reserved."
+canonifyurls = true
+paginate = 10
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
 
 [params]
-  description = "Pascal Amyot" # optional
-  twitter = "PascalAmyot" # optional
-  github = "pamyot" # optional
-  linkedin = "pascal-amyot-a5096225" # optional
-  googleAnalyticsUserID = "UA-74900834-1" # optional
+  # Shown in the home page
+  subtitle = "Accro de la techno!"
+  brand = "PA"
+  googleAnalytics = "UA-74900834-1"
+  disqus = "pamyot"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  dateFormat = "02 Jan 2006, 15:04"
 
-[permalinks]
-  post = "/:year/:month/:day/:title/" # optional
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+
+  # SNS microblogging
+  twitter = "PascalAmyot"
+
+  # SNS career oriented
+  linkedin = "pascal-amyot-a5096225"
+
+  # Techie
+  github = "pamyot"
