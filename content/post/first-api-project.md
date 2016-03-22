@@ -4,7 +4,7 @@ title = "My first API project"
 
 +++
 
-The start of my exploration on API's.
+The start of my exploration on API's. 
 
 ## Why?
 
@@ -34,5 +34,5 @@ I retain the following platforms in my initial experimentation :
 
 To build my first projet, I will use the Microsoft [code](https://code.visualstudio.com/Download) editor on an [Asus UX305C](http://myzen.asus.com/2015/10/29/an-update-to-the-asus-zenbook-ux305/) portable computer.  Occasionally, I use [c9](https://c9.io) order to have a fully available cloud development environment.
 
-It's a start!
+It's a GO!
 
