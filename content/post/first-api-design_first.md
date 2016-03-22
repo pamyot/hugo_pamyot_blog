@@ -1,7 +1,7 @@
 +++
 Categories = []
 Tags = []
-date = "2016-03-22T07:23:45-04:00"
+date = "2016-03-12T07:23:45-04:00"
 title = "API-Step 1 Design first"
 
 +++
@@ -66,4 +66,4 @@ This first step was easy to do and I the swagger format helped me in designing a
  
 ## See also
 
-- [My first API projet]({% post_url 2016-3-7-first-api-project %})  
+- [My first API projet](/post/first-api-project/)  
