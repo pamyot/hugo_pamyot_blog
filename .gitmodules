@@ -1,6 +1,3 @@
-[submodule "themes/blakcburn"]
-	path = themes/blakcburn
-	url = https://github.com/yoshiharuyamashita/blackburn
 [submodule "themes/blackburn"]
 	path = themes/blackburn
 	url = https://github.com/yoshiharuyamashita/blackburn
