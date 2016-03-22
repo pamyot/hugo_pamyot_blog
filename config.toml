@@ -1,0 +1,18 @@
+theme="material-design"
+baseurl = "http://pamyot.github.io"
+languageCode = "en-us"
+title = "Blog techno"
+MetaDataFormat = "toml"
+paginate = 9 # To specify a multiple of 3
+disqusShortname = "pamyot" # optional
+copyright = "© 2016 Pascal Amyot"
+
+[params]
+  description = "Pascal Amyot" # optional
+  twitter = "PascalAmyot" # optional
+  github = "pamyot" # optional
+  linkedin = "pascal-amyot-a5096225" # optional
+  googleAnalyticsUserID = "UA-74900834-1" # optional
+
+[permalinks]
+  post = "/:year/:month/:day/:title/" # optional
