@@ -1,7 +1,4 @@
 [submodule "themes/blackburn"]
 	path = themes/blackburn
 	url = https://github.com/yoshiharuyamashita/blackburn
-[submodule "public"]
-	path = public
-	url = https://github.com/pamyot/pamyot.github.io
-	branch = master
+
