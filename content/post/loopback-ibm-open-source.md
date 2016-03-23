@@ -1,6 +1,5 @@
 +++
 date = "2016-03-23T12:36:19-04:00"
-draft = true
 title = "Can the loopback opensource framework still live now that IBM as bought Strongloop?"
 
 +++
