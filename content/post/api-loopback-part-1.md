@@ -55,7 +55,7 @@ The same bug appeared at a few places that I fixed easily.
 ### The generated API
 
  My swagger definition included a model and a list of API that I created to have some basics CRUD operations on my model. I
- didn't realize when I used the `swagger-generator` that it had the capacity to automatically generator the CRUD operations so I 
+ didn't realize when I used the `swagger-generator` that it had the capacity to automatically generate the CRUD operations so I 
  ended up with two sets of API.
  
  The **swagger_v1** API :
