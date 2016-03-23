@@ -20,7 +20,7 @@ hugo server -t blackburn --buildDrafts
 Pour générer une version à jour du site Web : 
 
 ```
-hugo server -t blackburn 
+hugo -t blackburn 
 ```
 
 ## Déployer
