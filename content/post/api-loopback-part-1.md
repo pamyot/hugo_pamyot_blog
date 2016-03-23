@@ -1,6 +1,5 @@
 +++
 date = "2016-03-22T10:28:24-04:00"
-draft = true
 title = "API-Step 2 - Starting the loopback implementation (part 1)"
 
 +++
