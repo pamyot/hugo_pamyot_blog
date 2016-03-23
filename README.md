@@ -1,5 +1,5 @@
-# hugo_pamyot_blog
-Source du blog générable avec Hugo.
+# Code source de la page personnelle de Pascal Amyot
+Source du blog générable avec [Hugo](https://gohugo.io/).
 
 ## Installation de l'environnement local
 
