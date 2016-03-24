@@ -75,6 +75,7 @@ I will modify my swagger format to reflect that and continue on my API project.
  
 ## See also
 
+- [Learn GitHub project](https://github.com/pamyot/learn)
 - [My first API projet](/post/first-api-project/)  
 - [API-Step 1 Design first](/post/first-api-design_first/)  
  
