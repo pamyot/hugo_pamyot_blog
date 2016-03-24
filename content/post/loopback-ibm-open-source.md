@@ -4,7 +4,7 @@ title = "Can the loopback opensource framework still live now that IBM as bought
 
 +++
 
-## This history
+## The history
 
 In 2015, IBM as [bought](http://www-03.ibm.com/press/us/en/pressrelease/47577.wss) [Strongloop](https://strongloop.com/), the company
  behind the [loopback.io](http://loopback.io/) API framework.
